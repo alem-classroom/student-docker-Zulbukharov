@@ -2,4 +2,4 @@
 set -eu
 
 # you code here ....
-ps -a
+docker ps -a
