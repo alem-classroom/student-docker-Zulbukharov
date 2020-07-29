@@ -2,3 +2,4 @@
 set -eu
 
 # you code here ....
+ps -a
